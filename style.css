@@ -1,0 +1,61 @@
+.row {
+   
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    
+    padding: 10em;
+    border: 2px solid #5a58f3;
+    border-radius: 1em;
+    background-color: rgba(72, 136, 188, 0.652);
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  
+ 
+  
+  input , .entradaedad ,.entradaname {
+   
+    font: 1em sans-serif;
+  
+    
+    width: 500px;
+    box-sizing: border-box;
+  
+    
+    border: 1px solid #0c04ff;
+  }
+  
+
+  
+  
+  .entradaname {
+    
+    vertical-align: top;
+    
+    height: 2.1em;
+  }
+  .entradaedad {
+   
+    vertical-align: top;
+  
+ 
+    height: 2.1em;
+  }
+  
+  .button {
+    
+    padding-left: 9px;
+    margin-left: 10em;
+    transform: translatey(0.5em);
+  }
+  
+  .respuesta{
+    font-size: 60px;
+  }
