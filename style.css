@@ -1,9 +1,9 @@
 .row {
-   
+   display: flex;
     margin: 0 auto;
     width: 500px;
     height: 300px;
-    
+    FLEX-WRAP: WRAP;
     padding: 10em;
     border: 2px solid #5a58f3;
     border-radius: 1em;
@@ -24,7 +24,7 @@
    
     font: 1em sans-serif;
   
-    
+    FLEX-WRAP: WRAP;
     width: 500px;
     box-sizing: border-box;
   
